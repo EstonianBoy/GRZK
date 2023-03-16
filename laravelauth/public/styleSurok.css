@@ -1,0 +1,88 @@
+/*-----Разметка таблицы-----*/
+/*td 
+{
+border: 1px solid grey;  
+}
+
+th 
+{
+border: 1px solid grey;
+}*/
+
+/*------ Block ------*/
+
+#header
+{
+width: 100%;     
+height: 73px;   
+background-color: #734A12;
+}
+
+#main_block
+{
+width: 100%;     
+height: 228px;   
+background-color: #734A12;
+}
+
+#main_block_2
+{
+width: 100%;     
+height: 260px;   
+background-color: #734A12;
+}
+
+#main_block_3
+{
+width: 100%;     
+height: 850px;   
+background-color: #734A12;
+}
+
+#main_block_4
+{
+width: 100%;     
+height: 85px;   
+background-color: #734A12;
+}
+
+/*------ Text ------*/
+text_style_z
+{
+	font-family: Times New Roman;
+	color: white;
+	font-size: 350%;
+}
+
+text_style
+{
+	font-family: Times New Roman;
+	color: black;
+	font-size: 115%;
+	text-align: justify;
+}
+
+text_style_but
+{
+	font-family: Times New Roman;
+	color: black;
+	font-size: 100%;
+	text-align: justify;
+}
+
+button
+{
+width: 200px;     
+height: 50px;
+margin: 15px; 
+background: #3CB371;
+font-size: 120%;
+color: Black;
+font-family: Times New Roman;
+}
+
+button:hover
+{
+background: #white;
+font-weight: bold;
+}
